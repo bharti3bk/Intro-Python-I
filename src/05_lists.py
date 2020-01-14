@@ -27,14 +27,14 @@ x.insert(5,99)
 print(x)
 
 # Print the length of list x
-# YOUR CODE HERE
+# YOUR CODE HERE 
 print(len(x))
 
 # Print all the values in x multiplied by 1000
 # YOUR CODE HERE  
 
-product = 1000  
+#product = 1000  
 
-for element in x:
-    product *= element
-    print(product)
+#for element in x:
+    #product *= element
+    #print(product)
