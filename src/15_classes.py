@@ -48,7 +48,7 @@ class Geocache(WayPoint):
     '''.format(self=self)
 # Make a new waypoint and print it out: "Catacombs", 41.70505, 41.70505
 
-# YOUR CODE HERE  
+# YOUR CODE HERE   
 waypoint = WayPoint('Catacombs', 41.70505, -121.51521)
 
 
